@@ -11,7 +11,7 @@ const bodyBackground = document.getElementById('#body');
 const enableDark = () => {
   document.body.classList.add('darktheme');
   localStorage.setItem('darkTheme', 'enabled');
-  themeToggle.innerHTML = `<i id="themeButton__icon" data-feather="sun"></i>`;
+  themeToggle.innerHTML = `<i id="themeButton__icon" data-feather="toggle-right"></i>`;
   feather.replace();
 };
 
@@ -19,7 +19,7 @@ const enableDark = () => {
 const disableDark = () => {
   document.body.classList.remove('darktheme');
   localStorage.setItem('darkTheme', null);
-  themeToggle.innerHTML = `<i id="themeButton__icon" data-feather="moon"></i>`;
+  themeToggle.innerHTML = `<i id="themeButton__icon" data-feather="toggle-left"></i>`;
   feather.replace();
 };
 
