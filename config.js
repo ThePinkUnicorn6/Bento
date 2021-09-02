@@ -11,10 +11,10 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Theo',
   imageBackground: false,
-  openInNewTab: true,
-  twelveHourFormat: false,
+  openInNewTab: false,
+  twelveHourFormat: true,
 
   // Greetings
   greetingMorning: 'Good morning!',
@@ -45,19 +45,19 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/mail/u/0/#inbox',
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'Twitch',
       icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://twitch.tv',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Firefly',
+      icon: 'briefcase',
+      link: 'https://kingsmead.fireflycloud.net',
     },
     {
       id: '5',
@@ -67,9 +67,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Youtube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 
@@ -85,38 +85,34 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Scoresaber',
+        link: 'https://scoresaber.com/u/76561198846717696',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Beat Saviour',
+        link: 'https://www.beatsavior.io/#/scorescomparator',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Map Finder',
+        link: 'https://scoresaber.balibalo.xyz/peepee',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Rain',
+        link: 'http://rain.thecomicseries.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: '>Goodbyetohalos',
+        link: 'https://goodbyetohalos.com',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Webtoon',
+        link: 'https://www.webtoons.com/en/favorite',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Library',
+        link: 'https://somersetuk.borrowbox.com/home/my-loans',
       },
     ],
   },
