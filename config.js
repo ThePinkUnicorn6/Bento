@@ -103,7 +103,7 @@ const CONFIG = {
         link: 'http://rain.thecomicseries.com/',
       },
       {
-        name: '>Goodbyetohalos',
+        name: 'Goodbyetohalos',
         link: 'https://goodbyetohalos.com',
       },
       {
