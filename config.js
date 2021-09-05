@@ -96,6 +96,10 @@ const CONFIG = {
         name: 'Map Finder',
         link: 'https://scoresaber.balibalo.xyz/peepee',
       },
+      {
+        name: 'Scoresaber Reloaded',
+        link: 'https://ssr.motzel.dev/u/76561198846717696/',
+      },
     ],
     secondList: [
       {
