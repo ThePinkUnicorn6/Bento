@@ -98,7 +98,7 @@ const CONFIG = {
       },
       {
         name: 'Scoresaber Reloaded',
-        link: 'https://ssr.motzel.dev/u/76561198846717696/',
+        link: 'https://ssr.motzel.dev/',
       },
     ],
     secondList: [
